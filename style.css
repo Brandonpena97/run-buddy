@@ -70,7 +70,7 @@ section{
 
 /*Hero style start*/
 .hero{
-    background-image: url("../Run-buddy/assets/images/hero-bg\ \(1\).jpg");
+    background-image: url("../Run-buddy/assets/images/flipped-hero-image.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
